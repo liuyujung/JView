@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>b_AUTO_BROWSE</key>
+	<string>Parcours auto</string>
+	<key>b_CANCEL</key>
+	<string>Annuler</string>
+	<key>b_DELETE_CONFIRM</key>
+	<string>Souhaitez-vous vraiment supprimer ce fichier ?</string>
+	<key>b_DELETE_FAILED</key>
+	<string>La suppression a échoué</string>
+	<key>b_DELETE_SHEET_TITLE</key>
+	<string>Suppression du fichier</string>
+	<key>b_DIMENSION_HEIGHT</key>
+	<string>H :</string>
+	<key>b_DIMENSION_WIDTH</key>
+	<string>L :</string>
+	<key>b_LAST_IMAGE_MESSAGE</key>
+	<string>Recommencer ?</string>
+	<key>b_NO_IMAGE</key>
+	<string>Il n'y a pas d'image dans ce dossier</string>
+	<key>b_OK</key>
+	<string>OK</string>
+	<key>b_OPERATION_FAILED</key>
+	<string>L'opération n'a pu être effectuée</string>
+	<key>b_SAVE_FAILED</key>
+	<string>L'enregistrement a échoué</string>
+	<key>b_STOP_BROWSE</key>
+	<string>Arrêter le parcours</string>
+	<key>b_THE_END</key>
+	<string>Fin</string>
+	<key>b_UNKNOWN_VALUE</key>
+	<string>Inconnu</string>
+	<key>b_UNTITLED</key>
+	<string>Sans-titre</string>
+	<key>df_RESIZE_IMAGE_MESSAGE</key>
+	<string>Souhaitez-vous vraiment redimensionner l'image en </string>
+	<key>df_RESIZE_IMAGE_TITLE</key>
+	<string>Redimensionner l'image ?</string>
+	<key>df_SLIDE_BG_COLOR_TITLE</key>
+	<string>Couleur de Fond</string>
+	<key>df_SLIDE_TXT_COLOR_TITLE</key>
+	<string>Couleur du texte</string>
+</dict>
+</plist>

@@ -1,0 +1,41 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            ACTIONS = {
+                about = id; 
+                autoBrowse = id; 
+                autoZoom = id; 
+                cascade = id; 
+                closeAllFiles = id; 
+                copy = id; 
+                deleteFile = id; 
+                duplicate = id; 
+                fullScreen = id; 
+                getInfo = id; 
+                nextImage = id; 
+                openFile = id; 
+                otherZoom = id; 
+                paste = id; 
+                preference = id; 
+                rearrange = id; 
+                reload = id; 
+                saveAsFile = id; 
+                scaleZoom = id; 
+                slide = id; 
+                transform = id; 
+            }; 
+            CLASS = MyAppDelegate; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                autoBrowseMenuItem = NSMenuItem; 
+                nextImageMenuItem = NSMenuItem; 
+                previousImageMenuItem = NSMenuItem; 
+                zoomMenuItem = NSMenuItem; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = MyApplication; LANGUAGE = ObjC; SUPERCLASS = NSApplication; }
+    ); 
+    IBVersion = 1; 
+}

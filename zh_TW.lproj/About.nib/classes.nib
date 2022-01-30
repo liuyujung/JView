@@ -1,0 +1,17 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            CLASS = MyAboutController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                autherTxf = NSTextField; 
+                copyrightTxf = NSTextField; 
+                emailTxf = NSTextField; 
+                titleTxf = NSTextField; 
+            }; 
+            SUPERCLASS = NSWindowController; 
+        }
+    ); 
+    IBVersion = 1; 
+}

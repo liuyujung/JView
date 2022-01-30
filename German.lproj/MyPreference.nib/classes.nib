@@ -1,0 +1,50 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {CLASS = MyColorWell; LANGUAGE = ObjC; SUPERCLASS = NSColorWell; }, 
+        {
+            CLASS = MyPanelDelegate; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {horizontal = NSTextField; vertical = NSMatrix; }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {
+            ACTIONS = {
+                click = id; 
+                selectDefaultLocation = id; 
+                setScrollerDefaults = id; 
+                stepperAction = id; 
+                toggleEnableCache = id; 
+                toggleResizeToFitScreen = id; 
+            }; 
+            CLASS = MyPreferenceController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                applyToAllBtn = NSButton; 
+                autoBrowseIntervalStepper = NSStepper; 
+                autoBrowseIntervalTxf = NSTextField; 
+                backgroundImageBtn = NSButton; 
+                cacheSizeStepper = NSStepper; 
+                cacheSizeTxf = NSTextField; 
+                cascadeImageBtn = NSButton; 
+                defaultLocationTxf = NSTextField; 
+                depthStepper = NSStepper; 
+                depthTxf = NSTextField; 
+                disableCacheBtn = NSButton; 
+                enableRandomNavigationBtn = NSButton; 
+                horizontalPixelsTxf = NSTextField; 
+                imageNavigationKeysForm = NSForm; 
+                okBtn = NSButton; 
+                resizeFitScreenBtn = NSButton; 
+                speedXFactorSlider = NSSlider; 
+                speedYFactorSlider = NSSlider; 
+                verticalPixelsMatrix = NSMatrix; 
+                warnDeleteBtn = NSButton; 
+                zoomTxf = NSTextField; 
+            }; 
+            SUPERCLASS = NSWindowController; 
+        }, 
+        {CLASS = MyStepper; LANGUAGE = ObjC; SUPERCLASS = NSStepper; }
+    ); 
+    IBVersion = 1; 
+}

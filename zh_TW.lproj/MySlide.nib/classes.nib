@@ -1,0 +1,35 @@
+{
+    IBClasses = (
+        {CLASS = BgColorWell; LANGUAGE = ObjC; SUPERCLASS = NSColorWell; }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            ACTIONS = {browseOptionChange = id; select = id; start = id; stepperAction = id; }; 
+            CLASS = MySlideController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                bgColorWell = NSColorWell; 
+                browseOptionMatrix = NSMatrix; 
+                depthStepper = NSStepper; 
+                depthTxf = NSTextField; 
+                pathTxf = NSTextField; 
+                percentStepper = NSStepper; 
+                percentTxf = NSTextField; 
+                randomBtn = NSButton; 
+                secondsStepper = NSStepper; 
+                secondsTxf = NSTextField; 
+                startBtn = NSButton; 
+                textColorWell = NSColorWell; 
+                warnEndBtn = NSButton; 
+            }; 
+            SUPERCLASS = TimerableController; 
+        }, 
+        {CLASS = MyStepper; LANGUAGE = ObjC; SUPERCLASS = NSStepper; }, 
+        {
+            CLASS = TimerableController; 
+            LANGUAGE = ObjC; 
+            SUPERCLASS = NSWindowController; 
+        }, 
+        {CLASS = TxColorWell; LANGUAGE = ObjC; SUPERCLASS = NSColorWell; }
+    ); 
+    IBVersion = 1; 
+}

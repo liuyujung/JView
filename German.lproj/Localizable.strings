@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>b_AUTO_BROWSE</key>
+	<string>Automatisches Blttern</string>
+	<key>b_CANCEL</key>
+	<string>Abbrechen</string>
+	<key>b_DELETE_CONFIRM</key>
+	<string>Wollen Sie diese Datei wirklich lschen?</string>
+	<key>b_DELETE_FAILED</key>
+	<string>Lschen fehlgeschlagen</string>
+	<key>b_DELETE_SHEET_TITLE</key>
+	<string>Datei lschen</string>
+	<key>b_DIMENSION_HEIGHT</key>
+	<string>H:</string>
+	<key>b_DIMENSION_WIDTH</key>
+	<string>B:</string>
+	<key>b_LAST_IMAGE_MESSAGE</key>
+	<string>Diashow wiederholen?</string>
+	<key>b_NO_IMAGE</key>
+	<string>Dieser Ordner enthlt keine Bilddateien</string>
+	<key>b_OK</key>
+	<string>OK</string>
+	<key>b_OPERATION_FAILED</key>
+	<string>Vorgang fehlgeschlagen</string>
+	<key>b_SAVE_FAILED</key>
+	<string>Sichern fehlgeschlagen</string>
+	<key>b_STOP_BROWSE</key>
+	<string>Blttern stoppen</string>
+	<key>b_THE_END</key>
+	<string>Ende der Diashow</string>
+	<key>b_UNKNOWN_VALUE</key>
+	<string>Unbekannt</string>
+	<key>df_RESIZE_IMAGE_MESSAGE</key>
+	<string>Wollen Sie die Bildgrsse wirklich ndern nach </string>
+	<key>df_RESIZE_IMAGE_TITLE</key>
+	<string>Bildgrsse verndern?</string>
+	<key>df_SLIDE_BG_COLOR_TITLE</key>
+	<string>Hintergrundfarbe</string>
+	<key>df_SLIDE_TXT_COLOR_TITLE</key>
+	<string>Textfarbe</string>
+	<key>untitled</key>
+	<string>Unbenannt</string>
+</dict>
+</plist>

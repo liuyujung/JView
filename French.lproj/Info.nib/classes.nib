@@ -1,0 +1,19 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            ACTIONS = {click = id; }; 
+            CLASS = MyInfoController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                bitTxf = NSTextField; 
+                currentDimensionTxf = NSTextField; 
+                dimensionTxf = NSTextField; 
+                fileSizeTxf = NSTextField; 
+                resolutionTxf = NSTextField; 
+            }; 
+            SUPERCLASS = NSWindowController; 
+        }
+    ); 
+    IBVersion = 1; 
+}

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>b_AUTO_BROWSE</key>
+	<string>自動瀏覽</string>
+	<key>b_CANCEL</key>
+	<string>取消</string>
+	<key>b_DELETE_CONFIRM</key>
+	<string>你確定要刪除此影像?</string>
+	<key>b_DELETE_FAILED</key>
+	<string>刪除失敗</string>
+	<key>b_DELETE_SHEET_TITLE</key>
+	<string>刪除影像中</string>
+	<key>b_DIMENSION_HEIGHT</key>
+	<string>高:</string>
+	<key>b_DIMENSION_WIDTH</key>
+	<string>寬:</string>
+	<key>b_LAST_IMAGE_MESSAGE</key>
+	<string>重新開始?</string>
+	<key>b_NO_IMAGE</key>
+	<string>此檔案夾中沒有影像可以開啟</string>
+	<key>b_OK</key>
+	<string>確定</string>
+	<key>b_OPERATION_FAILED</key>
+	<string>動作失敗</string>
+	<key>b_SAVE_FAILED</key>
+	<string>儲存失敗</string>
+	<key>b_STOP_BROWSE</key>
+	<string>停止瀏覽</string>
+	<key>b_THE_END</key>
+	<string>終了</string>
+	<key>b_UNKNOWN_VALUE</key>
+	<string>不知</string>
+	<key>df_RESIZE_IMAGE_MESSAGE</key>
+	<string>你確定要改變影像大小至</string>
+	<key>df_RESIZE_IMAGE_TITLE</key>
+	<string>改變影像大小?</string>
+	<key>df_SLIDE_BG_COLOR_TITLE</key>
+	<string>背景顏色</string>
+	<key>df_SLIDE_TXT_COLOR_TITLE</key>
+	<string>文字顏色</string>
+	<key>untitled</key>
+	<string>無檔名</string>
+</dict>
+</plist>

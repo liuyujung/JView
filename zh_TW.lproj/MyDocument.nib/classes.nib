@@ -1,0 +1,28 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            ACTIONS = {typeChanged = id; }; 
+            CLASS = MyDocumentController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                compression = NSMatrix; 
+                imageView = MyImageView; 
+                interlaced = NSButton; 
+                quality = NSSlider; 
+                saveView = NSView; 
+                savesize = NSMatrix; 
+                scrollView = NSScrollView; 
+                type = NSPopUpButton; 
+            }; 
+            SUPERCLASS = TimerableController; 
+        }, 
+        {CLASS = MyImageView; LANGUAGE = ObjC; SUPERCLASS = NSImageView; }, 
+        {
+            CLASS = TimerableController; 
+            LANGUAGE = ObjC; 
+            SUPERCLASS = NSWindowController; 
+        }
+    ); 
+    IBVersion = 1; 
+}

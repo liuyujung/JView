@@ -1,0 +1,31 @@
+b_UNTITLED = "Untitled";
+b_OK = "OK";
+b_CANCEL = "Cancel";
+
+b_NO_IMAGE = "There is no image in the folder.";
+
+b_DELETE_SHEET_TITLE = "Are you sure you want to delete ";
+b_RECYCLE_SHEET_TITLE = "Are you sure you want to recycle ";
+b_DELETE_FAILED = "Delete failed.";
+b_RECYCLE_FAILED = "Recycle failed.";
+b_SAVE_FAILED = "Save failed.";
+b_MOVE_FAILED = "Move failed.";
+b_OPERATION_FAILED = "Operation failed.";
+b_DELETE_CONFIRM = "This item can't be recycled and will be deleted immediately. You can't undo this action.";
+b_RECYCLE_CONFIRM = "This item will be recycled.";
+b_UNKNOWN_VALUE = "unknown";
+b_DIMENSION_WIDTH = "W:";
+b_DIMENSION_HEIGHT = "H:";
+
+b_AUTO_BROWSE = "Auto Browse";
+b_STOP_BROWSE = "Stop Browse";
+b_LOCK_FRAME = "Lock Frame";
+b_UNLOCK_FRAME = "Unlock Frame";
+
+df_SLIDE_BG_COLOR_TITLE = "Background Color";
+
+b_SKIP_FILE = "Skip";
+b_REVEAL_FILE = "Reveal in Finder";
+b_TRASH_FILE = "Trash It";
+b_CANNOT_OPEN_FILE = "Couldn't open the file. Use 'ESC' to cancel.";
+b_MOVE_FILE_MESSAGE = "(Use 'T' key to move and '⌘M' key to bring back this window)";
