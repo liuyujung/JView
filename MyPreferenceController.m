@@ -174,7 +174,7 @@ static MyPreferenceController *_sharedPreference;
 		if (!df_ENABLE_CACHE) {
 			[imageCache reset];
 		} else {
-			if (df_CACHE_SIZE2_MB < 30) df_CACHE_SIZE2_MB = 30;
+			if (df_CACHE_SIZE2_MB < 600) df_CACHE_SIZE2_MB = 600;
 			//else if (df_CACHE_SIZE_MB > 150) df_CACHE_SIZE_MB = 150;
 			[imageCache setCacheSizeMBytes:df_CACHE_SIZE2_MB];
 		}

@@ -70,7 +70,7 @@
 	[appDefaults setObject:@"91" forKey:@"df_PREVIOUS_RANDOM_KEY"];
 	
 	[appDefaults setObject:@"2" forKey:@"df_NAVIGATION_FOLDER_DEPTH"];
-	[appDefaults setObject:@"100" forKey:@"df_CACHE_SIZE2_MB"];
+	[appDefaults setObject:@"900" forKey:@"df_CACHE_SIZE2_MB"];
 	[appDefaults setObject:@"10" forKey:@"df_VERTICAL_LINE_PIXELS"];
 	[appDefaults setObject:@"171" forKey:@"df_VERTICAL_PAGE_PIXELS"];
 	[appDefaults setObject:@"10" forKey:@"df_HORIZONTAL_LINE_PIXELS"];
@@ -89,7 +89,7 @@
 	[appDefaults setObject:@"NO" forKey:@"df_OPEN_WINDOW_CASCADE"];
 	[appDefaults setObject:@"NO" forKey:@"df_OPEN_WINDOW_CENTER"];
 	//[appDefaults setObject:@"NO" forKey:@"df_ENABLE_AUTO_ZOOM"];
-	[appDefaults setObject:@"YES" forKey:@"df_ENABLE_CACHE"];
+	[appDefaults setObject:@"NO" forKey:@"df_ENABLE_CACHE"];
 	
     [defaults registerDefaults:appDefaults];
 	[JwBundle class];

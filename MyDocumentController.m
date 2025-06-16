@@ -159,13 +159,19 @@
 {
 	if (visibleArea) {
 		
-		[imageView lockFocus];
+		/*
+        [imageView lockFocus];
 		NSBitmapImageRep *newRep = [[NSBitmapImageRep alloc] initWithFocusedViewRect:[imageView visibleRect]];
 		[imageView unlockFocus];
 		
 		[newRep autorelease];
 		
 		return [newRep TIFFRepresentation];
+        */
+        
+        NSImage *visibleImage = [[NSImage alloc] initWithData:[imageView dataWithPDFInsideRect:[imageView visibleRect]]];
+        [visibleImage autorelease];
+        return [visibleImage TIFFRepresentation];
 		
 	} else if (originalSize) {
 

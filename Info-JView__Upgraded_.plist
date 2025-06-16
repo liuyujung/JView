@@ -271,7 +271,7 @@
 	<key>CFBundleExecutable</key>
 	<string>JView</string>
 	<key>CFBundleGetInfoString</key>
-	<string>2.7.3 Copyright 2021 Allan Liu</string>
+	<string>2.7.3.1 Copyright 2025 Allan Liu</string>
 	<key>CFBundleIconFile</key>
 	<string>jview.icns</string>
 	<key>CFBundleIdentifier</key>
@@ -286,8 +286,6 @@
 	<string>$(MARKETING_VERSION)</string>
 	<key>CFBundleSignature</key>
 	<string>JVEW</string>
-	<key>CFBundleURLTypes</key>
-	<array/>
 	<key>CFBundleVersion</key>
 	<string>$(CURRENT_PROJECT_VERSION)</string>
 	<key>NSMainNibFile</key>
