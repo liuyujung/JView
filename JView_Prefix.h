@@ -10,9 +10,9 @@
 //#define DOCK_ADJUSTMENT 32
 //#define SIDEDOCK_ADJUSTMENT 4
 
-#define WINDOW_TITLEBAR_HEIGHT 22
-#define CASCADE_X 21
-#define CASCADE_Y 23
+#define WINDOW_TITLEBAR_HEIGHT 28
+#define CASCADE_X 26
+#define CASCADE_Y 28
 
 typedef enum {
     rotateLeft = 0,
